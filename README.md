@@ -4,4 +4,4 @@ Nesse projeto é possível adicionar um Card e mover para uma das três colunas 
 
 No Card você pode mover, editar ou excluir ele.
 
-Você pode acessar o site [Clicando aqui](https://igor97oliveira.github.io/Projeto-Kanban/).
+Você pode acessar o site [clicando aqui](https://igor97oliveira.github.io/Projeto-Kanban/).
